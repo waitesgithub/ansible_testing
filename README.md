@@ -13,11 +13,11 @@ Conduct testing for patch management and vulnerability remediation using Ansible
 - [X] Setup Ansible Semaphore using Docker 
 - [X] Setup Git Repository
 - [X] Create Ansible Inventory (inventory will not be stored in Git) 
-- [] Setup Ansible Configuration and Playbooks
-- [] Run Ansible Patch Testing for Host
-- [] Run Ansible Patch Testing for Docker Containers 
-- [] Run Ansible to Create a Postgres Database using Docker 
-- [] Run Ansible to setup NMAP, OpenVAS and Streamlit
+- [ ] Setup Ansible Configuration and Playbooks
+- [ ] Run Ansible Patch Testing for Host
+- [ ] Run Ansible Patch Testing for Docker Containers 
+- [ ] Run Ansible to Create a Postgres Database using Docker 
+- [ ] Run Ansible to setup NMAP, OpenVAS and Streamlit
 
 ### Dependencies
 * Describe any prerequisites.
